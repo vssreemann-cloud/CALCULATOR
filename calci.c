@@ -5,7 +5,7 @@ int main()
     char op;
     float num1, num2;
 
-    // Display menu
+    
     printf("Choose an operator (+, -, *, /): ");
     scanf("%c", &op);
 
